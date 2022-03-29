@@ -4,12 +4,13 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background: #222;
     font-family: 'Open Sans', sans-serif;
+    background: #222;
+    background-image: url('https://source.unsplash.com/1920x1080/?landscape');
 }
 
 .card {
-    background: #eaeaea;
+    background: #eaeaea98;
     padding: 2em;
     border-radius: 30px;
     width: 100%;
